@@ -1,0 +1,15 @@
+/home/lautarocruzsrur/Escritorio/tl1-tp10-2025-LautaroCruzSrur/Tareas/bin/Debug/net8.0/Tareas
+/home/lautarocruzsrur/Escritorio/tl1-tp10-2025-LautaroCruzSrur/Tareas/bin/Debug/net8.0/Tareas.deps.json
+/home/lautarocruzsrur/Escritorio/tl1-tp10-2025-LautaroCruzSrur/Tareas/bin/Debug/net8.0/Tareas.runtimeconfig.json
+/home/lautarocruzsrur/Escritorio/tl1-tp10-2025-LautaroCruzSrur/Tareas/bin/Debug/net8.0/Tareas.dll
+/home/lautarocruzsrur/Escritorio/tl1-tp10-2025-LautaroCruzSrur/Tareas/bin/Debug/net8.0/Tareas.pdb
+/home/lautarocruzsrur/Escritorio/tl1-tp10-2025-LautaroCruzSrur/Tareas/obj/Debug/net8.0/Tareas.GeneratedMSBuildEditorConfig.editorconfig
+/home/lautarocruzsrur/Escritorio/tl1-tp10-2025-LautaroCruzSrur/Tareas/obj/Debug/net8.0/Tareas.AssemblyInfoInputs.cache
+/home/lautarocruzsrur/Escritorio/tl1-tp10-2025-LautaroCruzSrur/Tareas/obj/Debug/net8.0/Tareas.AssemblyInfo.cs
+/home/lautarocruzsrur/Escritorio/tl1-tp10-2025-LautaroCruzSrur/Tareas/obj/Debug/net8.0/Tareas.csproj.CoreCompileInputs.cache
+/home/lautarocruzsrur/Escritorio/tl1-tp10-2025-LautaroCruzSrur/Tareas/obj/Debug/net8.0/Tareas.sourcelink.json
+/home/lautarocruzsrur/Escritorio/tl1-tp10-2025-LautaroCruzSrur/Tareas/obj/Debug/net8.0/Tareas.dll
+/home/lautarocruzsrur/Escritorio/tl1-tp10-2025-LautaroCruzSrur/Tareas/obj/Debug/net8.0/refint/Tareas.dll
+/home/lautarocruzsrur/Escritorio/tl1-tp10-2025-LautaroCruzSrur/Tareas/obj/Debug/net8.0/Tareas.pdb
+/home/lautarocruzsrur/Escritorio/tl1-tp10-2025-LautaroCruzSrur/Tareas/obj/Debug/net8.0/Tareas.genruntimeconfig.cache
+/home/lautarocruzsrur/Escritorio/tl1-tp10-2025-LautaroCruzSrur/Tareas/obj/Debug/net8.0/ref/Tareas.dll
