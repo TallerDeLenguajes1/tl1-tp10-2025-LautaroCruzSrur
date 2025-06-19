@@ -1,0 +1,15 @@
+C:\Users\ROG BY NG\Desktop\tl1-tp10-2025-LautaroCruzSrur\MiWebApi\bin\Debug\net9.0\MiWebApi.exe
+C:\Users\ROG BY NG\Desktop\tl1-tp10-2025-LautaroCruzSrur\MiWebApi\bin\Debug\net9.0\MiWebApi.deps.json
+C:\Users\ROG BY NG\Desktop\tl1-tp10-2025-LautaroCruzSrur\MiWebApi\bin\Debug\net9.0\MiWebApi.runtimeconfig.json
+C:\Users\ROG BY NG\Desktop\tl1-tp10-2025-LautaroCruzSrur\MiWebApi\bin\Debug\net9.0\MiWebApi.dll
+C:\Users\ROG BY NG\Desktop\tl1-tp10-2025-LautaroCruzSrur\MiWebApi\bin\Debug\net9.0\MiWebApi.pdb
+C:\Users\ROG BY NG\Desktop\tl1-tp10-2025-LautaroCruzSrur\MiWebApi\obj\Debug\net9.0\MiWebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROG BY NG\Desktop\tl1-tp10-2025-LautaroCruzSrur\MiWebApi\obj\Debug\net9.0\MiWebApi.AssemblyInfoInputs.cache
+C:\Users\ROG BY NG\Desktop\tl1-tp10-2025-LautaroCruzSrur\MiWebApi\obj\Debug\net9.0\MiWebApi.AssemblyInfo.cs
+C:\Users\ROG BY NG\Desktop\tl1-tp10-2025-LautaroCruzSrur\MiWebApi\obj\Debug\net9.0\MiWebApi.csproj.CoreCompileInputs.cache
+C:\Users\ROG BY NG\Desktop\tl1-tp10-2025-LautaroCruzSrur\MiWebApi\obj\Debug\net9.0\MiWebApi.sourcelink.json
+C:\Users\ROG BY NG\Desktop\tl1-tp10-2025-LautaroCruzSrur\MiWebApi\obj\Debug\net9.0\MiWebApi.dll
+C:\Users\ROG BY NG\Desktop\tl1-tp10-2025-LautaroCruzSrur\MiWebApi\obj\Debug\net9.0\refint\MiWebApi.dll
+C:\Users\ROG BY NG\Desktop\tl1-tp10-2025-LautaroCruzSrur\MiWebApi\obj\Debug\net9.0\MiWebApi.pdb
+C:\Users\ROG BY NG\Desktop\tl1-tp10-2025-LautaroCruzSrur\MiWebApi\obj\Debug\net9.0\MiWebApi.genruntimeconfig.cache
+C:\Users\ROG BY NG\Desktop\tl1-tp10-2025-LautaroCruzSrur\MiWebApi\obj\Debug\net9.0\ref\MiWebApi.dll
