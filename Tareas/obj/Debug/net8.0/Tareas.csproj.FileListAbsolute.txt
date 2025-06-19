@@ -13,3 +13,18 @@
 /home/lautarocruzsrur/Escritorio/tl1-tp10-2025-LautaroCruzSrur/Tareas/obj/Debug/net8.0/Tareas.pdb
 /home/lautarocruzsrur/Escritorio/tl1-tp10-2025-LautaroCruzSrur/Tareas/obj/Debug/net8.0/Tareas.genruntimeconfig.cache
 /home/lautarocruzsrur/Escritorio/tl1-tp10-2025-LautaroCruzSrur/Tareas/obj/Debug/net8.0/ref/Tareas.dll
+C:\Users\ROG BY NG\Desktop\tl1-tp10-2025-LautaroCruzSrur\Tareas\bin\Debug\net8.0\Tareas.exe
+C:\Users\ROG BY NG\Desktop\tl1-tp10-2025-LautaroCruzSrur\Tareas\bin\Debug\net8.0\Tareas.deps.json
+C:\Users\ROG BY NG\Desktop\tl1-tp10-2025-LautaroCruzSrur\Tareas\bin\Debug\net8.0\Tareas.runtimeconfig.json
+C:\Users\ROG BY NG\Desktop\tl1-tp10-2025-LautaroCruzSrur\Tareas\bin\Debug\net8.0\Tareas.dll
+C:\Users\ROG BY NG\Desktop\tl1-tp10-2025-LautaroCruzSrur\Tareas\bin\Debug\net8.0\Tareas.pdb
+C:\Users\ROG BY NG\Desktop\tl1-tp10-2025-LautaroCruzSrur\Tareas\obj\Debug\net8.0\Tareas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROG BY NG\Desktop\tl1-tp10-2025-LautaroCruzSrur\Tareas\obj\Debug\net8.0\Tareas.AssemblyInfoInputs.cache
+C:\Users\ROG BY NG\Desktop\tl1-tp10-2025-LautaroCruzSrur\Tareas\obj\Debug\net8.0\Tareas.AssemblyInfo.cs
+C:\Users\ROG BY NG\Desktop\tl1-tp10-2025-LautaroCruzSrur\Tareas\obj\Debug\net8.0\Tareas.csproj.CoreCompileInputs.cache
+C:\Users\ROG BY NG\Desktop\tl1-tp10-2025-LautaroCruzSrur\Tareas\obj\Debug\net8.0\Tareas.sourcelink.json
+C:\Users\ROG BY NG\Desktop\tl1-tp10-2025-LautaroCruzSrur\Tareas\obj\Debug\net8.0\Tareas.dll
+C:\Users\ROG BY NG\Desktop\tl1-tp10-2025-LautaroCruzSrur\Tareas\obj\Debug\net8.0\refint\Tareas.dll
+C:\Users\ROG BY NG\Desktop\tl1-tp10-2025-LautaroCruzSrur\Tareas\obj\Debug\net8.0\Tareas.pdb
+C:\Users\ROG BY NG\Desktop\tl1-tp10-2025-LautaroCruzSrur\Tareas\obj\Debug\net8.0\Tareas.genruntimeconfig.cache
+C:\Users\ROG BY NG\Desktop\tl1-tp10-2025-LautaroCruzSrur\Tareas\obj\Debug\net8.0\ref\Tareas.dll

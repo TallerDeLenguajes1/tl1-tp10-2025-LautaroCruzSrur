@@ -1,0 +1,15 @@
+C:\Users\ROG BY NG\Desktop\tl1-tp10-2025-LautaroCruzSrur\Usuarios\obj\Debug\net9.0\Usuarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROG BY NG\Desktop\tl1-tp10-2025-LautaroCruzSrur\Usuarios\obj\Debug\net9.0\Usuarios.AssemblyInfoInputs.cache
+C:\Users\ROG BY NG\Desktop\tl1-tp10-2025-LautaroCruzSrur\Usuarios\obj\Debug\net9.0\Usuarios.AssemblyInfo.cs
+C:\Users\ROG BY NG\Desktop\tl1-tp10-2025-LautaroCruzSrur\Usuarios\obj\Debug\net9.0\Usuarios.csproj.CoreCompileInputs.cache
+C:\Users\ROG BY NG\Desktop\tl1-tp10-2025-LautaroCruzSrur\Usuarios\obj\Debug\net9.0\Usuarios.sourcelink.json
+C:\Users\ROG BY NG\Desktop\tl1-tp10-2025-LautaroCruzSrur\Usuarios\bin\Debug\net9.0\Usuarios.exe
+C:\Users\ROG BY NG\Desktop\tl1-tp10-2025-LautaroCruzSrur\Usuarios\bin\Debug\net9.0\Usuarios.deps.json
+C:\Users\ROG BY NG\Desktop\tl1-tp10-2025-LautaroCruzSrur\Usuarios\bin\Debug\net9.0\Usuarios.runtimeconfig.json
+C:\Users\ROG BY NG\Desktop\tl1-tp10-2025-LautaroCruzSrur\Usuarios\bin\Debug\net9.0\Usuarios.dll
+C:\Users\ROG BY NG\Desktop\tl1-tp10-2025-LautaroCruzSrur\Usuarios\bin\Debug\net9.0\Usuarios.pdb
+C:\Users\ROG BY NG\Desktop\tl1-tp10-2025-LautaroCruzSrur\Usuarios\obj\Debug\net9.0\Usuarios.dll
+C:\Users\ROG BY NG\Desktop\tl1-tp10-2025-LautaroCruzSrur\Usuarios\obj\Debug\net9.0\refint\Usuarios.dll
+C:\Users\ROG BY NG\Desktop\tl1-tp10-2025-LautaroCruzSrur\Usuarios\obj\Debug\net9.0\Usuarios.pdb
+C:\Users\ROG BY NG\Desktop\tl1-tp10-2025-LautaroCruzSrur\Usuarios\obj\Debug\net9.0\Usuarios.genruntimeconfig.cache
+C:\Users\ROG BY NG\Desktop\tl1-tp10-2025-LautaroCruzSrur\Usuarios\obj\Debug\net9.0\ref\Usuarios.dll

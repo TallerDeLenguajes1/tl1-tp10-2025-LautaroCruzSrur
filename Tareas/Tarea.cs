@@ -4,7 +4,6 @@ namespace tarea;
 
 class Tarea
 {
-    private bool estado;
 
     [JsonPropertyName ("userId")]
     public int UserId { get; set; }
